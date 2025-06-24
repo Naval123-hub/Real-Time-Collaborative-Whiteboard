@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Build / production
+build/
+dist/
+
+# React cache
+.whiteboard-tutorial/node_modules/
+.whiteboard-tutorial/build/
+.whiteboard-tutorial/dist/
+
+# Optional: coverage (if using tests)
+coverage/
